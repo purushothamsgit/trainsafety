@@ -37,7 +37,7 @@ The below command will run the compiled program on the video provided. Modify th
 * Output
 #+Caption: Program Execution
 [[https://github.com/purushothamsgit/trainsafety.git]]
-A sample video of the program running can be found [[https://youtu.be/74gG0tw5zs0][here]].
+A sample video of the program running can be found [[(https://youtu.be/IV-Ffv5NS44)][here]].
 * References
 ** [[https://github.com/marcoslucianops/DeepStream-Yolo#requirements][DeepStream-Yolo]]
 ** [[https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_C_Sample_Apps.html][Deepstream C/C++ Sample apps Documentation]]
